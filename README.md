@@ -9,9 +9,9 @@ ENGO150@github
 ----------------
 
        OS  :  Arch Linux
-   Kernel  :  5.16.5-arch1-1
+   Kernel  :  5.16-arch1-1
        WM  :  i3
-    Shell  :  bash 5.1.16
+    Shell  :  bash 5.1
  Terminal  :  alacritty
 Languages  :  C, C++, Java, Python, JS
   Discord  :  634385503956893737
