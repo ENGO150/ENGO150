@@ -14,7 +14,6 @@ ENGO150@github
     Shell  :  bash 5.1.16
  Terminal  :  alacritty
 Languages  :  C, C++, Java, Python, JS
-     Page  :  https://engo150.github.io/
   Discord  :  634385503956893737
 ```
 
