@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="assets/hammers.png" alt="logo.png" width="200" />
+<img align="left" src="assets/hammers.png" alt="logo.png" width="200" height="200"/>
 
 ```csharp
 ENGO150@github
