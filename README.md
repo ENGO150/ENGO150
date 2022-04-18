@@ -13,7 +13,7 @@ ENGO150@github
        WM  :  i3
     Shell  :  bash 5.1
  Terminal  :  alacritty
-Languages  :  C, C++, Java, Python, JS
+Languages  :  C, Rust, C++, Java, Python
   Discord  :  634385503956893737
 ```
 
