@@ -11,7 +11,7 @@ ENGO150@github
        OS  :  Arch Linux
    Kernel  :  5.17-arch1-1
        WM  :  i3
-    Shell  :  bash 5.1
+    Shell  :  zsh 5.8
  Terminal  :  alacritty
 Languages  :  C, Rust, C++, Java, Python
   Discord  :  634385503956893737
