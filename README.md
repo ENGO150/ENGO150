@@ -19,12 +19,12 @@ Languages  :  C, Rust, C++, Java, Python
 
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#adbac7" src="https://via.placeholder.com/15/ADBAC7/000000?text=+" width="25" height="20" />
-  <img alt="#6cb6ff" src="https://via.placeholder.com/15/6CB6FF/000000?text=+" width="25" height="20" />
-  <img alt="#f47067" src="https://via.placeholder.com/15/F47067/000000?text=+" width="25" height="20" />
-  <img alt="#dcbdfb" src="https://via.placeholder.com/15/DCBDFB/000000?text=+" width="25" height="20" />
-  <img alt="#ffffff" src="https://via.placeholder.com/15/ffffff/000000?text=+" width="25" height="20" />
-  <img alt="#000000" src="https://via.placeholder.com/15/000000/000000?text=+" width="25" height="20" />
-  <img alt="#e40d0a" src="https://via.placeholder.com/15/e40d0a/000000?text=+" width="25" height="20" />
-  <img alt="#a3a7a6" src="https://via.placeholder.com/15/a3a7a6/000000?text=+" width="25" height="20" />
+  <img alt="#adbac7" src="assets/colors/adbac7.png" width="25" height="20" />
+  <img alt="#6cb6ff" src="assets/colors/6cb6ff.png" width="25" height="20" />
+  <img alt="#f47067" src="assets/colors/f47067.png" width="25" height="20" />
+  <img alt="#dcbdfb" src="assets/colors/dcbdfb.png" width="25" height="20" />
+  <img alt="#ffffff" src="assets/colors/ffffff.png" width="25" height="20" />
+  <img alt="#000000" src="assets/colors/000000.png" width="25" height="20" />
+  <img alt="#e40d0a" src="assets/colors/e40d0a.png" width="25" height="20" />
+  <img alt="#a3a7a6" src="assets/colors/a3a7a6.png" width="25" height="20" />
 </p>
