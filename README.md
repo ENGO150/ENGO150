@@ -9,7 +9,7 @@ ENGO150@github
 --------------
 
        OS  :  Arch Linux
-   Kernel  :  5.19-arch1-1
+   Kernel  :  6.0-arch1-1
        WM  :  i3
     Shell  :  zsh 5.9
  Terminal  :  alacritty
