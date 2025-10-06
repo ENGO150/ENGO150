@@ -9,11 +9,11 @@ ENGO150@github
 --------------
 
        OS  :  Arch Linux
-   Kernel  :  6.12-arch1-1
+   Kernel  :  arch
        WM  :  i3
-    Shell  :  zsh 5.9
+    Shell  :  zsh
  Terminal  :  alacritty
-Languages  :  C, Rust, C++, Java, Python
+Languages  :  Rust, C, C++, Java, Python
   Discord  :  634385503956893737
 ```
 
