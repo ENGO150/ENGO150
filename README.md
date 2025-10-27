@@ -1,5 +1,5 @@
 ```bash
-> neofetch
+> fastfetch
 ```
 
 <img align="left" src="https://git.satan.red/ENGO150/ENGO150/-/raw/main/assets/hammers.png" alt="logo.png" width="200" height="200"/>
@@ -9,10 +9,10 @@ ENGO150@github
 --------------
 
        OS  :  Arch Linux
-   Kernel  :  arch
-       WM  :  i3
-    Shell  :  zsh
- Terminal  :  alacritty
+   Kernel  :  Linux 4.20-zen1-1-zen
+       WM  :  Hyprland
+    Shell  :  fish
+ Terminal  :  kitty 0.66.6
 Languages  :  Rust, C, C++, Java, Python
   Discord  :  634385503956893737
 ```
