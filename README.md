@@ -8,8 +8,8 @@
 ENGO150@github
 --------------
 
-       OS  :  Arch Linux
-   Kernel  :  Linux 4.20-zen1-1-zen
+       OS  :  Gentoo Linux
+   Kernel  :  Linux 4.20-gentoo-kraken
        WM  :  Hyprland
     Shell  :  fish
  Terminal  :  kitty 0.66.6
