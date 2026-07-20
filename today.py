@@ -308,7 +308,8 @@ def svg_overwrite(index, commit_data, star_data, repo_data, contrib_data, follow
 
     justify_format(root, 'commit_data', commit_data, 22)
     justify_format(root, 'star_data', star_data, 14)
-    justify_format(root, 'repo_data', repo_data, 6)
+    contrib_str = f"{'{:,}'.format(contrib_data)}" if isinstance(contrib_data, int) else str(contrib_data)
+    justify_format(root, 'repo_data', repo_data, 9 - len(contrib_str))
     justify_format(root, 'contrib_data', contrib_data)
     justify_format(root, 'follower_data', follower_data, 10)
     justify_format(root, 'loc_data', loc_data[2], 9)
