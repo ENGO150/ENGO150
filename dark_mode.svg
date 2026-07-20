@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii" font-size="7px">
+<tspan x="15" y="30">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="38">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="46">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; &amp;      &amp;&amp;              &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="54">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; &amp;                                 &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="62">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                                         &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="70">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                                            &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="78">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                                                &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="86">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                     &amp;                            &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="94">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                    &amp;&amp;&amp; &amp;&amp;&amp;&amp;&amp;&amp;                       &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="102">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                 &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                    &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="110">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;   &amp;             &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                  &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="118">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                  &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                   &amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="126">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                   &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                   &amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="134">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                    &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                   &amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="142">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                     &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                    &amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="150">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                      &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                    &amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="158">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                     &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                       &amp;</tspan>
+<tspan x="15" y="166">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                     &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                        &amp;</tspan>
+<tspan x="15" y="174">&amp;&amp;&amp;&amp;&amp;&amp;&amp;                      &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; &amp;&amp;&amp; &amp;&amp;                          </tspan>
+<tspan x="15" y="182">&amp;&amp;&amp;&amp;&amp;                             &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; &amp;                                    </tspan>
+<tspan x="15" y="190">&amp;&amp;&amp;&amp;                                 &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;    &amp;  &amp;                             </tspan>
+<tspan x="15" y="198">&amp;&amp;&amp;&amp;                        &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp;   &amp;&amp;&amp;&amp;&amp;&amp;&amp;                        </tspan>
+<tspan x="15" y="206">&amp;&amp; &amp;                             &amp; &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; &amp;&amp;  &amp;&amp;   &amp;   &amp;         &amp;&amp;             </tspan>
+<tspan x="15" y="214">&amp;&amp;&amp;                          &amp;   &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;  &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;    &amp;&amp;      &amp;&amp;&amp;             </tspan>
+<tspan x="15" y="222">&amp;&amp;&amp;                          &amp; &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;   &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;     &amp;&amp;&amp; &amp;           </tspan>
+<tspan x="15" y="230">&amp;&amp; &amp;                        &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;    &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;    &amp;&amp;&amp;&amp;             </tspan>
+<tspan x="15" y="238">&amp;&amp;&amp;&amp;                 &amp;       &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;     &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;    &amp;&amp;&amp;&amp;             </tspan>
+<tspan x="15" y="246"> &amp;&amp;&amp;                         &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;     &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;     &amp;&amp;&amp;&amp;             </tspan>
+<tspan x="15" y="254">&amp;&amp;&amp;                         &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;   &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;     &amp; &amp;&amp;             </tspan>
+<tspan x="15" y="262">&amp;&amp;                           &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;   &amp;&amp;&amp; &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;    &amp;&amp;&amp;               </tspan>
+<tspan x="15" y="270">                           &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; &amp;&amp;&amp;  &amp; &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; &amp;&amp;      &amp;                </tspan>
+<tspan x="15" y="278">&amp;                           &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; &amp;&amp; &amp;&amp;&amp;   &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                        </tspan>
+<tspan x="15" y="286">&amp;                             &amp;&amp;&amp;&amp;&amp;&amp;&amp;  &amp;&amp;&amp;     &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                         </tspan>
+<tspan x="15" y="294">                             &amp;&amp;&amp;&amp;&amp;&amp;&amp;     &amp;       &amp;    &amp;&amp;&amp;&amp;                         </tspan>
+<tspan x="15" y="302">                                  &amp;&amp;    &amp;             &amp;                            </tspan>
+<tspan x="15" y="310">       &amp;                      &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;  &amp;&amp;&amp;&amp;&amp;&amp;&amp;                            </tspan>
+<tspan x="15" y="318">                              &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                             </tspan>
+<tspan x="15" y="326">                               &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;  &amp; &amp; &amp;&amp;&amp;&amp;&amp;&amp;                               </tspan>
+<tspan x="15" y="334">                               &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;  &amp;&amp; &amp;&amp;&amp;&amp;&amp; &amp;                               </tspan>
+<tspan x="15" y="342">                                   &amp;&amp;&amp; &amp;&amp;&amp;  &amp; &amp; &amp;                                  </tspan>
+<tspan x="15" y="350">                                     &amp;&amp;&amp;&amp;                                          </tspan>
+<tspan x="15" y="358">                                  &amp; &amp;                                              </tspan>
+<tspan x="15" y="366">                                                                                   </tspan>
+<tspan x="15" y="374">                                                   &amp;                               </tspan>
+<tspan x="15" y="382">                                                                                   </tspan>
+<tspan x="15" y="390">                                                                                   </tspan>
+<tspan x="15" y="398">                                                                                   </tspan>
+<tspan x="15" y="406">                                                                                   </tspan>
+<tspan x="15" y="414">                                                  &amp;                                </tspan>
+<tspan x="15" y="422">                                 &amp;&amp;&amp;&amp;&amp;&amp;&amp;  &amp;&amp;&amp;&amp;&amp;&amp;  &amp;&amp;  &amp;                            </tspan>
+<tspan x="15" y="430">       &amp;                          &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;   &amp;&amp;&amp;                   </tspan>
+<tspan x="15" y="438">                               &amp;   &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;  &amp;&amp;                     </tspan>
+<tspan x="15" y="446">                               &amp;   &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                        </tspan>
+<tspan x="15" y="454">                                &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                         </tspan>
+<tspan x="15" y="462">      &amp;                           &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                           </tspan>
+<tspan x="15" y="470">                                 &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                              </tspan>
+<tspan x="15" y="478">                                &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                                  </tspan>
+<tspan x="15" y="486">                              &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;                                       </tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30" id="title_name">engo@150</tspan> -———————————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc" id="os_data_dots"> ......................................... </tspan><tspan class="value" id="os_data">Gentoo Linux</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Editor</tspan>:<tspan class="cc" id="ide_data_dots"> ........................................... </tspan><tspan class="value" id="ide_data">Neovim</tspan>
+<tspan x="390" y="90" class="cc">. </tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc" id="lang_prog_data_dots"> ........ </tspan><tspan class="value" id="lang_prog_data">Rust, C, C++, Java, Python</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc" id="lang_comp_data_dots"> ..................... </tspan><tspan class="value" id="lang_comp_data">LaTeX, HTML, CSS</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc" id="lang_real_data_dots"> .................. </tspan><tspan class="value" id="lang_real_data">Czech, English, Spanish</tspan>
+<tspan x="390" y="170" class="cc">. </tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc" id="hobby_soft_data_dots"> ............................ </tspan><tspan class="value" id="hobby_soft_data">Coding, Cryptography</tspan>
+<tspan x="390" y="210" class="cc">. </tspan>        <tspan class="cc" id="hobby_hard_data_dots"> ............................ </tspan><tspan class="value" id="hobby_hard_data">Math, Cyber Security</tspan>
+<tspan x="390" y="230">- Projects</tspan> -—————————————————————————————————————————————-—-
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Current</tspan>:<tspan class="cc" id="project_data_dots"> ............................................ </tspan><tspan class="value" id="project_data">WHY2</tspan>
+<tspan x="390" y="270" class="cc">. </tspan>
+<tspan x="390" y="290">- Socials</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc" id="email_pers1_data_dots"> .................................... </tspan><tspan class="value" id="email_pers1_data">engo@satan.red</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc" id="discord_data_dots"> ......................................... </tspan><tspan class="value" id="discord_data">engo150</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc" id="instagram_data_dots"> ...................................... </tspan><tspan class="value" id="instagram_data">engo_150</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc" id="website_data_dots"> ............................... </tspan><tspan class="value" id="website_data">https://satan.red</tspan>
+<tspan x="390" y="390" class="cc">. </tspan>
+<tspan x="390" y="410" class="cc">. </tspan>
+<tspan x="390" y="430" class="cc">. </tspan>
+<tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">95</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">133</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">342</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">2,116</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">196</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">446,276</tspan> ( <tspan class="addColor" id="loc_add">523,178</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">76,902</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>
