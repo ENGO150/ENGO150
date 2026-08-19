@@ -229,8 +229,11 @@ def cache_builder(edges, comment_size, force_cache, loc_add=0, loc_del=0):
     cache_comment = data[:comment_size] # save the comment block
     data = data[comment_size:] # remove those lines
     for index in range(len(edges)):
+        edge_node = edges[index].get('node')
+        if not edge_node or not edge_node.get('nameWithOwner'):
+            continue
         repo_hash, commit_count, *__ = data[index].split()
-        if repo_hash == hashlib.sha256(edges[index]['node']['nameWithOwner'].encode('utf-8')).hexdigest():
+        if repo_hash == hashlib.sha256(edge_node['nameWithOwner'].encode('utf-8')).hexdigest():
             try:
                 if int(commit_count) != edges[index]['node']['defaultBranchRef']['target']['history']['totalCount']:
                     # if commit count has changed, update loc for that repo
@@ -239,6 +242,8 @@ def cache_builder(edges, comment_size, force_cache, loc_add=0, loc_del=0):
                     data[index] = repo_hash + ' ' + str(edges[index]['node']['defaultBranchRef']['target']['history']['totalCount']) + ' ' + str(loc[2]) + ' ' + str(loc[0]) + ' ' + str(loc[1]) + '\n'
             except TypeError: # If the repo is empty
                 data[index] = repo_hash + ' 0 0 0 0\n'
+            except (KeyError, AttributeError): # If response data is malformed
+                pass
     with open(filename, 'w') as f:
         f.writelines(cache_comment)
         f.writelines(data)
@@ -261,7 +266,9 @@ def flush_cache(edges, filename, comment_size):
     with open(filename, 'w') as f:
         f.writelines(data)
         for node in edges:
-            f.write(hashlib.sha256(node['node']['nameWithOwner'].encode('utf-8')).hexdigest() + ' 0 0 0 0\n')
+            edge_node = node.get('node')
+            if edge_node and edge_node.get('nameWithOwner'):
+                f.write(hashlib.sha256(edge_node['nameWithOwner'].encode('utf-8')).hexdigest() + ' 0 0 0 0\n')
 
 
 def force_close_file(data, cache_comment):
@@ -281,7 +288,9 @@ def stars_counter(data):
     Count total stars in repositories owned by me
     """
     total_stars = 0
-    for node in data: total_stars += node['node']['stargazers']['totalCount']
+    for node in data:
+        if node and node.get('node') and node['node'].get('stargazers'):
+            total_stars += node['node']['stargazers'].get('totalCount', 0)
     return total_stars
 
 
